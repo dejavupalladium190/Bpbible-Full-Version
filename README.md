@@ -241,4 +241,4 @@ This repository serves as the official landing page for BPBible. The software is
 **Get the most recent version of BPBible today!**
 
 ---
-**Last updated:** 2026-09-25 12:40:17 UTC
+**Last updated:** 2026-09-25 17:43:11 UTC
